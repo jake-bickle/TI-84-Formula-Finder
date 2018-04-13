@@ -20,3 +20,4 @@ To use, simply press "PRGM" on your calculator and find TWOPOINT. Do not use TPP
 
 # Plans
 - Add more curves to find
+- Make output simpler
